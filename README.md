@@ -1,4 +1,4 @@
-***Fruit Classification - A Keras Project***
+***Fruit Classification - A Keras Project with 100% accuracy***
 
 Introduction
 
